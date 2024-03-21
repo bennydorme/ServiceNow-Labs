@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Loaner Request">4c81eac6c5c502107f44a8fdeeb54f25</catalog_item>
+        <catalog_variable>IO:4181220ac5c502107f44a8fdeeb54f24</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-21 15:00:37</sys_created_on>
+        <sys_id>e9d92282c50902107f44a8fdeeb54fef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">1b20033d94f002107f44d24af925ee8e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">1b20033d94f002107f44d24af925ee8e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_e9d92282c50902107f44a8fdeeb54fef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-21 15:00:37</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Only show 'Other' field Depot value is 'Other'">72782a02c50902107f44a8fdeeb54f97</ui_policy>
+        <variable>other</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
